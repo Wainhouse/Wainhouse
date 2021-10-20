@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wainhouse&show_icons=true&theme=radical" />
 </a>
 <p></p>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical&langs_count=8" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Wainhouse&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wainhouse&layout=compact&theme=radical&langs_count=8" />
 </a>
 
 
