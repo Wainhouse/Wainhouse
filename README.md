@@ -11,4 +11,8 @@ You can click the Preview link to take a look at your changes.
  - Email: Lukewainhouse@hotmail.com
 
 
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wainhouse&show_icons=true&theme=radical)
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
