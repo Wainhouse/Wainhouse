@@ -1,5 +1,5 @@
 <div align="center">
-<p>:cactus::uk: Hi, I’m Luke Wainhouse or @Wainhouse</p>
+<p>:cactus: :uk: Hi, I’m Luke Wainhouse or @Wainhouse</p>
 <p>:flying_saucer: I’m interested in web applications, API integration and software development. </p>
 <p>:potted_plant: I’m currently studying Python and Java on the QA SKills Bootcamp.</p>
 <p>:t-rex: I'm working on Python and Java projects.</p>
