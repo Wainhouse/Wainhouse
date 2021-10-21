@@ -19,6 +19,10 @@ You can click the Preview link to take a look at your changes.
 <img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo.png" style="max-width: 100%;" height="30">
 <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" style="max-width: 100%;" height="30">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" style="max-width: 100%;" height="30">
+<img src="https://www.logolynx.com/images/logolynx/1a/1a6dec46e15b0c11c178b4c7d1efd937.png" style="max-width: 100%;" height="30">
+<img src="https://www.logolynx.com/images/logolynx/83/83e6d44c52029ae76cebafe2e27d6dfc.png" style="max-width: 100%;" height="30">
+
+  
 </div
 <br></br>
 <div align="center">
