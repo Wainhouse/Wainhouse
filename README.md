@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://www.logolynx.com/images/logolynx/83/83e6d44c52029ae76cebafe2e27d6dfc.png" style="max-width: 100%;" height="30">
 
   
-</div
+<!-- </div
 <br></br>
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -34,4 +34,4 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wainhouse&repo=convoychat" />
 </a>
 </div>
-
+ -->
