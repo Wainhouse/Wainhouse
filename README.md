@@ -26,12 +26,12 @@ You can click the Preview link to take a look at your changes.
 </div
 <br></br>
 <div align="center">
-<a href="https://github-readme-stats.vercel.app/api?username=Wainhouse&show_icons=true&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wainhouse&show_icons=true&theme=radical" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wainhouse&repo=github-readme-stats" />
 </a>
 <p></p>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Wainhouse&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wainhouse&layout=compact&theme=radical&langs_count=8" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wainhouse&repo=convoychat" />
 </a>
 </div>
 
