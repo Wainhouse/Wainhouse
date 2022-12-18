@@ -1,8 +1,8 @@
 <div align="center">
-<p>:cactus: :uk: Hi, I’m Luke Wainhouse or @Wainhouse</p>
+<p>:cactus: :uk: Hi, I’m Luke Wainhouse or @Wainhouse I work as a Junior Software Developer</p>
 <p>:flying_saucer: I’m interested in web applications, API integration and software development. </p>
-<p>:potted_plant: I’m currently studying Python and Java on the QA SKills Bootcamp.</p>
-<p>:t-rex: I'm working on Python and Java projects.</p>
+<p>:potted_plant: I’m currently enrolled on the fullstackopen Deep Dive Into Modern Web Development.</p>
+<p>:t-rex: I'm working on web applications using  React, Redux, Node.js, MongoDB, GraphQL and TypeScript.</p>
 <p>:video_game: You can reach me by email, I'll leave it below.</p>
 :godmode: email: Lukewainhouse@hotmail.com
 </div>
