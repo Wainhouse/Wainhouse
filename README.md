@@ -1,5 +1,5 @@
 <div align="center">
-<p>:cactus: :uk: Hi, I’m Luke Wainhouse or @Wainhouse I'm a aspiring Junior Software Developer</p>
+<p>:cactus: :uk: Hi, I’m <a href="https://registry.jsonresume.org/Wainhouse?theme=Elegant">Luke Wainhouse</a> or @Wainhouse I'm a aspiring Junior Software Developer</p>
 <p>:flying_saucer: I’m interested in web applications, API integration and software development. </p>
 <p>:potted_plant: I’m currently training to become a full-stack developer.</p>
 <p>:t-rex: I'm working on web applications using  React, Redux, Node.js, MongoDB, GraphQL and TypeScript.</p>
