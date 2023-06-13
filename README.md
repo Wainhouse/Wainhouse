@@ -3,7 +3,7 @@
 <p>:flying_saucer: I’m interested in web applications, API integration and software development. </p>
 <p>:potted_plant: I’m currently software developer working for CGI UK.</p>
 <p>:t-rex: I'm working on web applications using  React, Redux, Node.js, MongoDB, GraphQL and TypeScript.</p>
-<p>:video_game: You can reach me by email, I'll leave it below.</p>
+<p>:video_game: You can reach me by email.</p>
 :godmode: email: Lukewainhouse@hotmail.com
 </div>
 <!---
