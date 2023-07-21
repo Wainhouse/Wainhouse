@@ -1,7 +1,7 @@
 <div align="center">
 <p>:cactus: :uk: Hi, I’m <a href="https://registry.jsonresume.org/Wainhouse?theme=Elegant">Luke Wainhouse</a> or @Wainhouse I'm a Junior Software Developer</p>
 <p>:flying_saucer: I’m interested in web applications, API integration and software development. </p>
-<p>:potted_plant: I’m currently software developer working for CGI UK.</p>
+<p> I’m currently working as a software developer.</p>
 <p>:t-rex: I'm working on web applications using  React, Redux, Node.js, MongoDB, GraphQL and TypeScript.</p>
 <p>:video_game: You can reach me by email.</p>
 :godmode: email: Lukewainhouse@hotmail.com
